@@ -560,7 +560,7 @@
     "vectordb": "^0.4.20",
     "esbuild": "^0.17.19",
     "vscode-languageclient": "^8.0.2",
-    "ws": "^8.13.0",
+    "ws": "^8.17.1",
     "yarn": "^1.22.21"
   }
 }
